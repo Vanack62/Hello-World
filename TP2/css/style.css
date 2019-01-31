@@ -29,8 +29,21 @@
         font-size:8vw;
     }
 
+    th{
+        background-color:grey;
+        text-align:center;
+        border-collapse: collapse;
+    }
 
+    td{
+        display:block;
+        text-align:center;
+        border:none;
+    }
 
+    th{
+        display:block;
+    }
 #logo{
     background-image: url(../img/logo-iut.jpg);
     width: 300px;
